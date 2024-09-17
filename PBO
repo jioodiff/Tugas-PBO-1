@@ -28,5 +28,5 @@ class MobilBalap extends Mobil {
 const mobil1 = new Mobil('GTR-R35', 'HITAM');
 mobil1.jalan(); // Output: Toyota berwarna merah sedang berjalan.
 
-const mobilBalap1 = new MobilBalap('H2-R', 'HITAM', 350);
-mobilBalap1.jalan(); // Output: Ferrari balap berwarna hitam berjalan dengan kecepatan maksimal 350 km/jam.
+const mobilBalap1 = new MobilBalap('H2-R', 'HITAM', 300);
+mobilBalap1.jalan(); // Output: Ferrari balap berwarna hitam berjalan dengan kecepatan maksimal 300 km/jam.
